@@ -13,7 +13,7 @@ import (
 	"io/ioutil"
 	"log"
 
-	"github.com/chai2010/webp"
+	"github.com/bonkzero404/webp"
 )
 
 func main() {
